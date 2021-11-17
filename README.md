@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## hello-world
 
 You can use the [editor on GitHub](https://github.com/Obeng1223/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
